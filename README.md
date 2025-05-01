@@ -102,7 +102,7 @@
 
 Feel free to reach out or collaborate on open-source or fun weekend projects!
 
-📩 supra.y1@gmail.com  
+📩 237006079@student.unsil.ac.id  
 🌍 [Portfolio (Coming Soon)](https://yourportfolio.site)
 
 <div align="center">
