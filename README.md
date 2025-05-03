@@ -102,7 +102,7 @@
 
 Feel free to reach out or collaborate on open-source or fun weekend projects!
 
-📩 [Gmail](237006079@student.unsil.ac.id)
+📩 [Gmail](237006079@student.unsil.ac.id) <br/>
 🌍 [Portfolio](https://grnlogic.github.io/portofolioPribadi/)
 
 <div align="center">
