@@ -102,8 +102,8 @@
 
 Feel free to reach out or collaborate on open-source or fun weekend projects!
 
-📩 237006079@student.unsil.ac.id  
-🌍 [Portfolio (Coming Soon)]([https://grnlogic.github.io/portofolioPribadi/))
+📩 [Gmail](237006079@student.unsil.ac.id)
+🌍 [Portfolio](https://grnlogic.github.io/portofolioPribadi/)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=grnlogic.grnlogic&" />
