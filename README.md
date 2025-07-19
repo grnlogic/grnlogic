@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d4ZmFvbmUxdmliNzJibnR6eDR1NGtrbGR5NThhZGtxeHFoNHZncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXBvYjh0NHl5MWxydDR5Y2I3N2J6NjE4cGs3Z3N2NHBldXI4ZmFhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HT8hGYFeLnlfg4NJrG/giphy.gif" />
 </div>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  I'm <strong>Fajar Geran</strong> from Indonesia 🇮🇩 — a fullstack developer and cybersecurity enthusiast.<br>
+  I'm <strong>Fajar Geran Arifin</strong> from Indonesia 🇮🇩 — a fullstack developer and cybersecurity enthusiast.<br>
   Currently exploring the intersection of <b>web development</b> and <b>ethical hacking</b>.<br>
   Passionate about turning ideas into digital solutions.
 </p>
@@ -30,20 +30,26 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying at **Siliwangi University**
-- 🔭 Currently learning **Fullstack Web Development** (React + Spring Boot)
-- 🛡️ Into **Cybersecurity**, Ethical Hacking & Reverse Engineering
-- 🎥 Enjoy **Video Editing** and creative storytelling
-- 🌱 Always excited to learn new tech and improve myself
+- 🎓 Studying at **Universitas Siliwangi**
+- 🏭 Intern at **Padud Jaya**, a real tobacco manufacturing factory
+- 🧑‍💼 Developed and deployed **two real-world apps** for:
+  - Sales Financial Reports
+  - Daily Operational Reports
+- 🖥️ Directly responsible for managing and maintaining **production VPS servers**
+- 💻 Actively working in **Ubuntu** for development and **Kali Linux** for penetration testing
+- 🛡️ Into **Cybersecurity**, Reverse Engineering & Android Pentesting
+- 🎥 Enjoys **Video Editing** and Creative Storytelling
 
 ---
 
 ### 🧠 Currently Exploring
 
-- 🧪 Advanced Spring Boot (JWT, Security)
-- ⚛️ React Hooks & TailwindCSS
-- 🛠️ Deployment via Railway & Docker
-- 🐍 Pentesting tools: Metasploit, Frida, Objection
+- 🔐 Spring Boot Advanced (JWT, Auth, Security)
+- ⚛️ React Hooks, Tailwind CSS
+- 🐳 Dockerized Deployment + VPS Management
+- 📡 Ngrok for secure tunneling
+- 📱 Android Security Testing: Metasploit, Frida, Objection
+- 🤖 AI Project: Garbage Detection using Django + Custom AI Model
 
 ---
 
@@ -57,29 +63,13 @@
 - PostgreSQL, JWT Auth, REST API, Swagger
 
 #### 🔧 DevOps & Tools
-- Docker, Git, Ngrok, Apache
+- Docker, Git, VPS, Ngrok, Apache
 
 #### 🐧 Operating Systems
-- Ubuntu, Kali Linux
+- Ubuntu (dev), Kali Linux (security)
 
 #### 🎬 Creative Tools
 - Adobe After Effects
-
----
-
-### 🚀 Featured Projects
-
-#### 🏠 [Kos-App (Manajemen Kost)](https://github.com/grnlogic/manage-kost)
-> Aplikasi fullstack untuk mengelola penghuni, pembayaran, dan tugas-tugas operasional kost.
-- ⚙️ Built with React, Spring Boot, PostgreSQL, JWT
-- 🔐 Admin & User authentication
-- 📦 Dockerized for easier deployment
-
-#### 🔐 [Digital Signature Backend](https://github.com/grnlogic/DigitalSignatureBackEnd)
-> Backend untuk membuat dan memverifikasi tanda tangan digital menggunakan algoritma RSA.
-- 📄 RSA Signature Verification
-- 🧪 API testing via Swagger
-- 🛡️ Focus on integrity & authenticity of documents
 
 ---
 
@@ -94,7 +84,7 @@
 ### 🏅 Certifications
 - Dicoding — Belajar Backend dengan Spring Boot (2024)
 - TryHackMe — Complete Beginner Path
-- HackTheBox — Linux Fundamentals (on progress)
+- HackTheBox — Linux Fundamentals *(on progress)*
 
 ---
 
@@ -102,7 +92,7 @@
 
 Feel free to reach out or collaborate on open-source or fun weekend projects!
 
-📩 [Gmail](237006079@student.unsil.ac.id) <br/>
+📩 [Gmail](mailto:237006079@student.unsil.ac.id) <br/>
 🌍 [Portfolio](https://grnlogic.github.io/portofolioPribadi/)
 
 <div align="center">
@@ -112,4 +102,3 @@ Feel free to reach out or collaborate on open-source or fun weekend projects!
 ---
 
 <img src="https://raw.githubusercontent.com/grnlogic/grnlogic/output/snake.svg" alt="Snake animation" />
-
