@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/grnlogic.png" alt="Fajar Geran Arifin" width="150" style="border-radius: 50%;" />
+
 # Fajar Geran Arifin
 
 **Fullstack Developer | Cybersecurity | AI Explorer**
