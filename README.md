@@ -1,174 +1,191 @@
 <div align="center">
 
-<img src="https://github.com/grnlogic.png" width="100" style="border-radius: 50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:134e4a&height=170&section=header&text=Fajar%20Geran%20Arifin&fontSize=34&fontColor=2DD4BF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Internal%20Systems%20Engineer%20%C2%B7%20Security%20Enthusiast&descAlignY=58&descSize=15&descColor=8B949E" width="100%"/>
 
-<h2>Fajar Geran Arifin</h2>
+<img src="https://github.com/grnlogic.png" width="90" style="border-radius: 50%; margin-top: 4px;" />
 
-<p><strong>Backend Developer · System Engineer · Security Enthusiast</strong></p>
+<br/>
 
-<p>Informatics Engineering @ Universitas Siliwangi · Tasikmalaya, Indonesia</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=560&lines=Informatics+Engineering+%40+UNSIL+%C2%B7+Tasikmalaya;PT.+Padud+Jaya+Putera+%E2%80%94+intern+%2B+staff+role;Building+HRD%2C+GA%2C+and+POS+systems+in+production" alt="Typing SVG" />
 
 <p>
   <a href="https://fajargeran.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-fajargeran.my.id-0d1117?style=flat&logo=firefox&logoColor=white&labelColor=238636" />
+    <img src="https://img.shields.io/badge/Portfolio-fajargeran.my.id-0d1117?style=flat-square&logo=firefox&logoColor=2DD4BF&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:237006079@student.unsil.ac.id">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=2DD4BF&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fajar-arifin-ab8645362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=2DD4BF&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://www.upwork.com/freelancers/~0161b57f32127352e8">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/Upwork-Hire_me-0d1117?style=flat-square&logo=upwork&logoColor=2DD4BF&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://www.sribu.com/id/users/FajarGeran">
-    <img src="https://img.shields.io/badge/Sribu-FF6B00?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sribu-Profile-0d1117?style=flat-square&logoColor=2DD4BF&labelColor=0d1117" />
   </a>
 </p>
 
 </div>
 
----
+<br/>
 
-## About
+## `// whoami`
 
-Backend developer and system engineer focused on building reliable internal systems, server infrastructure, and security-aware solutions. Currently interning at **PT. Padud Jaya** managing production servers and deploying full-stack enterprise applications.
+Full-stack developer focused on building and maintaining real internal business systems — HR/payroll, inventory & general affairs, and point-of-sale platforms — end to end, from database design to production deployment. Currently at **PT. Padud Jaya Putera** in a hybrid intern/staff role, owning several internal applications used daily across the company's divisions.
 
-Started programming during high school — self-taught Python and web fundamentals, then expanded into backend engineering, ethical hacking, and AI/ML during university. Member of the ethical hacking specialization group (JKF) at UNSIL.
+Started programming self-taught in high school, then expanded into full-stack engineering, applied AI/ML, and security during university. Member of the ethical hacking specialization group (JKF) at UNSIL.
 
 ```typescript
 const fajar = {
-  role       : "Backend Developer & System Engineer",
+  role       : "Full-Stack Developer & Internal Systems Engineer",
   education  : "Informatics Engineering — UNSIL (Active)",
-  internship : "IT Intern @ PT. Padud Jaya",
-  focus      : ["Backend Systems", "Server & DevOps", "Security", "AI/ML"],
+  position   : "PT. Padud Jaya Putera (intern transitioning to staff)",
+  freelance  : ["CRW POS", "SalonNext", "WAMS", "MBG", "Waterboom Cijoho"],
+  focus      : ["Full-Stack Web", "Internal Business Systems", "Security", "AI/ML"],
   available  : true,   // open to freelance
 };
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## `// stack`
 
 <div align="center">
 
-> Focused on backend systems, server infrastructure, and security-aware development.
+**Languages**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 
-**Languages & Runtimes**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
 
 **Backend & API**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
-
-**Frontend** *(supporting)*
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=ffffff)
 
 **Database & Infrastructure**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Security & AI/ML**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Security & AI/ML** *(academic focus)*
+<br/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 
 **Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<br/>
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual%20studio%20code&logoColor=0078D4)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
 
 </div>
 
----
+<br/>
 
-## 🚀 Projects
+## `// projects`
 
-### HRIS / Employee Management System — PT. Padud Jaya
-Enterprise-grade HR and payroll system deployed in a real production environment across multiple company divisions.
+<table>
+<tr>
+<td width="100%">
 
-| | |
-|---|---|
-| **Stack** | Java · Spring Boot · Next.js · React · PostgreSQL · Tailwind CSS |
-| **Status** | 🟢 Production |
-| **Scope** | Role-based access (HRD & Accounting), dynamic payroll with BPJS deduction, salary slip PDF export, multi-location support, bulk Excel import |
+**HRD & Payroll System** — PT. Padud Jaya Putera
+<br/>
+Production HR system used daily across multiple company divisions (Padud, Sunarya, Prima).
 
----
+`Next.js 15` `React` `Prisma` `PostgreSQL` `NextAuth`
+🟢 In production, undergoing phased UI/architecture rework
+> Role-based access (HRD/Accounting), multi-location payroll (staff & non-staff), attendance, leave, PKB document editor, encrypted employee PII
 
-### Web Attack Detection — Ethical Hacking Research
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**General Affairs & Inventory Workspace** — PT. Padud Jaya Putera
+<br/>
+Internal cross-company asset & inventory management application, built from the ground up.
+
+`React 19` `Vite` `TypeScript` `Tailwind CSS` `Express` `Prisma` `PostgreSQL`
+🟢 In production internal use
+> Multi-company asset tracking, vendor & cleaning logs, JWT auth, QR-based asset workflow
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**CRW POS** — Freelance
+<br/>
+Point-of-sale and production management system rebuild for a printing business client.
+
+`Next.js (App Router)` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
+🔵 Active, fixed-price milestone contract
+> Custom pricing engine (HPP/BBB/BTKL/BOP), order & production workflow, role-based POS, quotation & invoice generation
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Other Freelance Projects**
+<br/>
+SalonNext · WAMS · MBG · Waterboom Cijoho
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Web Attack Detection** — Ethical Hacking Research *(Final Project)*
+<br/>
 ML-based web attack detection pipeline comparing multiple models on the CSIC 2010 HTTP dataset.
 
-| | |
-|---|---|
-| **Stack** | Python · Scikit-learn · Jupyter Notebook |
-| **Status** | 🔵 In Development (Final Project) |
-| **Scope** | Random Forest, Isolation Forest & SVM/Logistic Regression comparison; `.joblib` model export; demo website |
+`Python` `Scikit-learn` `Jupyter Notebook`
+🔵 In development
+> Random Forest, Isolation Forest & SVM/Logistic Regression comparison; model export; demo website
 
----
+</td>
+</tr>
+</table>
 
-### Digital Forensics Reconstruction Pipeline
-Post-attack forensic reconstruction system using ML and Gemini API integration.
+<br/>
 
-| | |
-|---|---|
-| **Stack** | Python · Gemini API · ML Pipeline |
-| **Status** | 🔵 In Development (Final Project) |
-| **Scope** | Log analysis, attack timeline reconstruction, AI-assisted reporting |
-
----
-
-### Security Assessment — Evil Twin & MITM Simulation
-Controlled Man-in-the-Middle attack simulation in an isolated lab environment.
-
-| | |
-|---|---|
-| **Stack** | Kali Linux · hostapd · dnsmasq · iptables · Wireshark |
-| **Status** | ✅ Completed |
-| **Scope** | Rogue AP setup, DHCP/DNS spoofing, packet sniffing and HTTP/HTTPS traffic analysis |
-
----
-
-
-## 📊 GitHub Stats
+## `// stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grnlogic&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=grnlogic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnlogic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=8B949E" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grnlogic&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=grnlogic&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img src="https://streak-stats.demolab.com?user=grnlogic&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" />
 
 </div>
 
----
+<br/>
 
-## 💼 Freelance & Hire
+## `// freelance`
 
-Available for freelance projects — backend systems, API development, server setup, or full-stack web applications.
+Available for freelance projects — full-stack web apps, internal business systems, POS/inventory platforms.
 
 | Platform | Link |
 |---|---|
@@ -176,9 +193,11 @@ Available for freelance projects — backend systems, API development, server se
 | 💼 Upwork | [upwork.com/freelancers/~0161b57f32127352e8](https://www.upwork.com/freelancers/~0161b57f32127352e8) |
 | 🎯 Sribu | [sribu.com/id/users/FajarGeran](https://www.sribu.com/id/users/FajarGeran) |
 
----
+<br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"Build things that matter, secure things that count."*
 
